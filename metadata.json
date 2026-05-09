@@ -1,0 +1,8 @@
+{
+  "name": "Alerta Líder",
+  "description": "Una plataforma tecnológica diseñada para la protección de líderes sociales y defensores de derechos humanos en Colombia, integrando alertas en tiempo real, análisis de datos y redes de apoyo seguro.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
